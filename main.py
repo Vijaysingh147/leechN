@@ -27,7 +27,7 @@ process={"x":False}
 pat =  re.compile(r"(https?://+[\w\d:#@%/;$()~_?\+-=\\\.&]*)")
 
 bot = Client("bot",
-             bot_token= BOT_TOKEN,
+             bot_token= "6803796753:AAH2wBCBwgFZpVFnfnTKwJorUcCWfvcLmlY",
              api_id= 9741228,
              api_hash= "6f339e8fa827a5147fa2ff03898d610c")
 
