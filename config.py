@@ -10,7 +10,7 @@ PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
 OWNER = int(os.environ.get("OWNER", 5409975736))
 
-LOG = --1002036952917
+LOG = -1002036952917
 
 try:
   GROUPS =[]
